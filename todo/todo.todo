@@ -1,0 +1,26 @@
+Header:
+    ☐ Implement Icons On Header
+    ☐ Make Interactive
+    ☐ Logic
+Panel:
+    Setting Panel:
+        ☐ Implement Menu Bar
+        ☐ Settings
+        ☐ Social Media Handles
+    Account:
+        ☐ Implement OAuth
+        ☐ Magic Link Sign (Using Supabase)
+        ☐ Information
+        After Login:
+            ☐ Login Email With Button
+            ☐ Upgrade Button
+            ☐ Connected Accounts
+            ☐ Information
+            ☐ Chagpt Account
+    Bookmark:
+        Implement In Future
+    Folders:
+        ☐ TitleBar
+        ☐ SearchBar
+        ☐ ToolBar
+        ☐ Folder Trees

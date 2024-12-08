@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Header inline css */
+
+@layer components {
+  .header-inline-link-css {
+    @apply p-2 rounded-[10px] hover:bg-secondaryColor  flex items-center justify-center;
+  }
+}
